@@ -1554,6 +1554,10 @@ input, select, textarea {
 			display: block;
 			width: 100%;
 		}
+		.image video {
+			display: block;
+			width: 100%;
+		}
 
 		.image.fit {
 			display: block;
